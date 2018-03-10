@@ -1,0 +1,34 @@
+
+.section {
+  // width: 80vw;
+  display: table;
+  align-items: center;
+  margin: auto;
+  position: relative;
+
+  .section-links {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0px;
+    // display-ma
+    // flex-direction: row;
+    // align-items: center;
+    // border-bottom: 1px solid $light-gray;
+    // position: relative;
+    strong{
+      text-transform: uppercase;
+      font-size: 10px;
+    }
+
+    li:hover {
+      text-decoration: underline;
+    }
+
+    li {
+      margin: 0px 10px;
+
+    }
+  }
+
+  border-bottom: 1px solid $light-gray;
+}

@@ -1,0 +1,41 @@
+.section	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_sections_nav.scss	/^.section {$/;"	function	line:2
+.section-links	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_sections_nav.scss	/^  .section-links {$/;"	function	line:9
+strong	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_sections_nav.scss	/^    strong{$/;"	function	line:18
+li:hover	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_sections_nav.scss	/^    li:hover {$/;"	function	line:23
+li	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_sections_nav.scss	/^    li {$/;"	function	line:27
+.hidden	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^.hidden {$/;"	function	line:2
+html	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^html {$/;"	function	line:6
+body	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^body {$/;"	function	line:11
+button	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^button {$/;"	function	line:18
+button:hover	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^button:hover {$/;"	function	line:32
+hr	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^hr {$/;"	function	line:41
+.hr-top, .hr-bottom	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^.hr-top, .hr-bottom {$/;"	function	line:47
+.hr-top	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/base/layout.scss	/^.hr-top {$/;"	function	line:52
+.masthead	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead {$/;"	function	line:1
+.language-nav	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.language-nav {$/;"	function	line:10
+.language-nav a	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.language-nav a {$/;"	function	line:23
+.language-nav ul	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.language-nav ul {$/;"	function	line:31
+.language-nav a:hover	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.language-nav a:hover {$/;"	function	line:35
+.logo	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.logo {$/;"	function	line:39
+.masthead-links	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links {$/;"	function	line:45
+.masthead-links li	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links li {$/;"	function	line:53
+.masthead-links button	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links button {$/;"	function	line:58
+.masthead-links button:hover	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links button:hover {$/;"	function	line:66
+.masthead-links a	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links a,$/;"	function	line:71
+.masthead-links button	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links button,$/;"	function	line:72
+.masthead-links time	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links time {$/;"	function	line:73
+.masthead-links i	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links i {$/;"	function	line:77
+.masthead-links strong	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_masthead.scss	/^.masthead-links strong {$/;"	function	line:81
+.main-nav	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.main-nav {$/;"	function	line:1
+.left-nav > ul	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.left-nav > ul,$/;"	function	line:8
+.right-nav > ul	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.right-nav > ul {$/;"	function	line:9
+.left-nav > ul > li	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.left-nav > ul > li {$/;"	function	line:16
+.right-nav > ul > li	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.right-nav > ul > li {$/;"	function	line:25
+.right-nav > ul > li:last-of-type	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.right-nav > ul > li:last-of-type {$/;"	function	line:30
+.left-nav > ul > li:hover	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.left-nav > ul > li:hover,$/;"	function	line:36
+.right-nav > ul > li:last-of-type:hover	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.right-nav > ul > li:last-of-type:hover {$/;"	function	line:37
+.left-nav span	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.left-nav span {$/;"	function	line:41
+.right-nav i	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_main_nav.scss	/^.right-nav i {$/;"	function	line:48
+#gear-dropdown	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_gear_dropdown.scss	/^#gear-dropdown {$/;"	function	line:3
+li	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_gear_dropdown.scss	/^  li{$/;"	function	line:4
+ul	/Users/appacademy/Desktop/w4d5/aa_times/app/assets/stylesheets/components/_gear_dropdown.scss	/^    ul {$/;"	function	line:6

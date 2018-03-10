@@ -1,0 +1,13 @@
+// Use the gear_dropdown.png screenshot as a style guide
+
+#gear-dropdown {
+  li{
+    display: inline-block;
+    ul {
+      position: absolute;
+      top: 25;
+      left: 0px;
+      z-index: 1;
+  }
+  }
+}
